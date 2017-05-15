@@ -1,0 +1,8 @@
+C:\Users\andre\Documents\Visual Studio 2008\Projects\KalkulatorMini\KalkulatorMini\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andre\Documents\Visual Studio 2008\Projects\KalkulatorMini\KalkulatorMini\obj\Debug\KalkulatorMini.Form1.resources
+C:\Users\andre\Documents\Visual Studio 2008\Projects\KalkulatorMini\KalkulatorMini\obj\Debug\KalkulatorMini.Properties.Resources.resources
+C:\Users\andre\Documents\Visual Studio 2008\Projects\KalkulatorMini\KalkulatorMini\obj\Debug\KalkulatorMini.csproj.GenerateResource.Cache
+C:\Users\andre\Documents\Visual Studio 2008\Projects\KalkulatorMini\KalkulatorMini\bin\Debug\KalkulatorMini.exe
+C:\Users\andre\Documents\Visual Studio 2008\Projects\KalkulatorMini\KalkulatorMini\bin\Debug\KalkulatorMini.pdb
+C:\Users\andre\Documents\Visual Studio 2008\Projects\KalkulatorMini\KalkulatorMini\obj\Debug\KalkulatorMini.exe
+C:\Users\andre\Documents\Visual Studio 2008\Projects\KalkulatorMini\KalkulatorMini\obj\Debug\KalkulatorMini.pdb
