@@ -16,7 +16,7 @@ namespace SIMPEG
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormInput());
+            Application.Run(new FormLogin());
         }
     }
 }
