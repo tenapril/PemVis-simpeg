@@ -1,1 +1,3 @@
 SIMPEG adalah singkatan dari Sistem Informasi dan Kepegawaian
+
+SIMPEG dibuat untuk nilai Ujian Akhir Semester Pemrograman Visual 2017
